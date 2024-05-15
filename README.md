@@ -5,7 +5,7 @@ Telegram RoBot to Upload Links.
 
 **Features**:
 
-👉 Only Auth Users (AUTH_USERS) Can Use The Bot
+👉 Only Auth Users (AUTH_USERS) Can Use The Bot.
 
 👉 Upload [YTDL Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
 
